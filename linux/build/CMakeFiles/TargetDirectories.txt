@@ -1,0 +1,6 @@
+/home/phuc/BC_HPC/linux/build/CMakeFiles/kmeans_sequential.dir
+/home/phuc/BC_HPC/linux/build/CMakeFiles/kmeans_openmp.dir
+/home/phuc/BC_HPC/linux/build/CMakeFiles/kmeans_mpi.dir
+/home/phuc/BC_HPC/linux/build/CMakeFiles/kmeans_cuda.dir
+/home/phuc/BC_HPC/linux/build/CMakeFiles/edit_cache.dir
+/home/phuc/BC_HPC/linux/build/CMakeFiles/rebuild_cache.dir

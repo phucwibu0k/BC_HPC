@@ -1,0 +1,1 @@
+ /usr/lib/libopencv_highgui.so.5.0.0 /usr/lib/libopencv_videoio.so.5.0.0 /usr/lib/libopencv_imgcodecs.so.5.0.0 /usr/lib/libopencv_imgproc.so.5.0.0 /usr/lib/libopencv_geometry.so.5.0.0 /usr/lib/libopencv_flann.so.5.0.0 /usr/lib/libopencv_core.so.5.0.0 -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
